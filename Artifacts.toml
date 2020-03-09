@@ -1,0 +1,97 @@
+[[OATHToolkit]]
+arch = "aarch64"
+git-tree-sha1 = "edf543f77f243e000094399a678f91cbc6d5b892"
+libc = "musl"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "c8c7154b51a9964b33f99f2d74f18f8b1f419559269616e61dbe3a56b308c175"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.aarch64-linux-musl.tar.gz"
+[[OATHToolkit]]
+arch = "x86_64"
+git-tree-sha1 = "6f350f02ca839075e382706bf63a86ff2f4e4a32"
+libc = "musl"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "cc09eb2d83ad3695eb182afe2d0926bf6ea02c2af0709a9e31672d2eafd4aa29"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.x86_64-linux-musl.tar.gz"
+[[OATHToolkit]]
+arch = "i686"
+git-tree-sha1 = "523181ef232da83539c32b1420893ace64205ace"
+libc = "glibc"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "ddfa33a0992c515ce01392d8479e5f5c049f5a2fc47af919194d204f0f1563a7"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.i686-linux-gnu.tar.gz"
+[[OATHToolkit]]
+arch = "armv7l"
+git-tree-sha1 = "c7ebe42d01a35c09270bf1f4ae2a5cb42f806440"
+libc = "glibc"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "511e280c86a8e61d271c3a6f89c6498c5c51af18945937f3dc940fe54f631905"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.armv7l-linux-gnueabihf.tar.gz"
+[[OATHToolkit]]
+arch = "aarch64"
+git-tree-sha1 = "579df06f793b8a061b436d29c1831ad918c357ee"
+libc = "glibc"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "78398f8f2b8843823e4696ee5692cd6b906a22a1225a8f1a79950cbd6cfef298"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.aarch64-linux-gnu.tar.gz"
+[[OATHToolkit]]
+arch = "x86_64"
+git-tree-sha1 = "02e56525d7f3b0066beec1726c84a0f7a2540a45"
+libc = "glibc"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "e7b8fd4b51ca0e36f3e2d93c795821a674bcde11a2869ffa62e3c456a30a06b0"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.x86_64-linux-gnu.tar.gz"
+[[OATHToolkit]]
+arch = "powerpc64le"
+git-tree-sha1 = "9e77478ddd62a90cb645a876d543b6e9474ed97c"
+libc = "glibc"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "78e5cb3456cee6852b5de723c1cbbfa0a598cbbe26b2ff700c101239fd7f4114"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.powerpc64le-linux-gnu.tar.gz"
+[[OATHToolkit]]
+arch = "x86_64"
+git-tree-sha1 = "231f5d9636ac85e91bdd8182b4764ae53e62025d"
+os = "macos"
+
+    [[OATHToolkit.download]]
+    sha256 = "a60f3a9fe01e3b422b11592aa3d7fa02caf69359d8b4552df11a8310c456b925"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.x86_64-apple-darwin14.tar.gz"
+[[OATHToolkit]]
+arch = "x86_64"
+git-tree-sha1 = "ed55fa9f8785a2bb793189b99936d04587ff8ecf"
+os = "freebsd"
+
+    [[OATHToolkit.download]]
+    sha256 = "eb4e4282f095ed8dcb8e091baeff7c0e45580205b6b5a31d8a72644e0d67f7dc"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[OATHToolkit]]
+arch = "i686"
+git-tree-sha1 = "ab3e97b32f0c5c067cdf347f5d9627eb65023d5e"
+libc = "musl"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "f0675c572c013d5755c7bff2b1bd5e781ef9f6ad43b314373d596146cb6c482f"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.i686-linux-musl.tar.gz"
+[[OATHToolkit]]
+arch = "armv7l"
+git-tree-sha1 = "1befead5dd628151f496baaa0cee0708adb272cd"
+libc = "musl"
+os = "linux"
+
+    [[OATHToolkit.download]]
+    sha256 = "4c803fe74d1c67fc19fae103d8ee344a4df4e59f27f9a1a19ae6d3fcec7a703e"
+    url = "https://github.com/JuliaBinaryWrappers/OATHToolkit_jll.jl/releases/download/OATHToolkit-v2.6.2+0/OATHToolkit.v2.6.2.armv7l-linux-musleabihf.tar.gz"
